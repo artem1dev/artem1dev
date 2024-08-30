@@ -1,6 +1,6 @@
 <h3 align="center">Hey, nice to see you!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36"/></h3>
 <p align="center">Welcome to my GitHub page!<br>
-     My name is Artem and I am experienced backend developer. 
+     My name is Artem and I am an experienced backend developer. 
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
